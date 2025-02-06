@@ -1,0 +1,20 @@
+{
+  "name": "programacionejercicio5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin",
+  "license": "ISC",
+  "description": "Ejercicio5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodaMtz/ProgramacionEjercicio5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kodaMtz/ProgramacionEjercicio5/issues"
+  },
+  "homepage": "https://github.com/kodaMtz/ProgramacionEjercicio5#readme"
+}
