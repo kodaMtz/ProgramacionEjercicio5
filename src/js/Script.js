@@ -1,4 +1,3 @@
-
 /*
 Declara 3 variables para almacenar el nombre, edad y país de una persona.
 Luego, utiliza template strings(``) para crear una oración como:
@@ -6,13 +5,12 @@ Luego, utiliza template strings(``) para crear una oración como:
 Muestra el resultado en consola.
 */
 
-
-//Declaracion de variables 
+//Declaracion de variables
 let nombre = "Kevin";
 let edad = 21;
 let ciudad = "Mexico";
 
 //Uso de temple String(``)
-console.log(`Hola, mi nombre es ${nombre}.
+console.log(`   Hola, mi nombre es ${nombre}.
      tengo ${edad} años y soy de
-     ${ciudad}, mucho gusto.`)
+     ${ciudad}, mucho gusto.`);
